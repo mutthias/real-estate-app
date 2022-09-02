@@ -32,6 +32,6 @@ const Property = ({property: { coverPhoto, price, rentFrequency, rooms, title, b
       </Box>
     </Flex>
   </Link>
-)
+) 
 
 export default Property
