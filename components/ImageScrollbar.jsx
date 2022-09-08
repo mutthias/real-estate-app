@@ -51,3 +51,5 @@ const ImageScrollbar = ( {data } ) => (
     })}
   </ScrollMenu>
 )
+
+export default ImageScrollbar;
